@@ -46,7 +46,7 @@ while True:
 ## OUPUT
 ## CLIENT
 ![Screenshot 2025-04-12 020031](https://github.com/user-attachments/assets/d1605d52-2442-40ad-be6c-e2f5c56a21cb)
-## OUTPUT
+## SERVER
 ![Screenshot 2025-04-12 020008](https://github.com/user-attachments/assets/7833332c-73d7-4e21-bb44-a01826581193)
 
 ## RESULT
