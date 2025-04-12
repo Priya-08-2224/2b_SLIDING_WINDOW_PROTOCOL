@@ -51,4 +51,4 @@ while True:
 ![Screenshot 2025-04-12 020008](https://github.com/user-attachments/assets/7833332c-73d7-4e21-bb44-a01826581193)
 
 ## RESULT
-Thus, python program to perform stop and wait protocol was successfully executed
+Thus, python program to perform sliding window protocol was successfully executed
